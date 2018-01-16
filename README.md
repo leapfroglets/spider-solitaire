@@ -4,7 +4,7 @@ Just a simple remake of classic Spider Solitaire game built during 6-week intern
 The project utilizes vanilla Javascript and HTML canvas for animations.
 
 Just clone or download the repo and open index.html in your web browser to get started.
-The latest version of the game is hosted on github. Click here to [Play](http://coyg7.github.io/Spider-Solitaire/)!! :D 
+The latest version of the game is hosted on github. Click here to [Play](https://cdn.rawgit.com/leapfroglets/spider-solitaire/95d222a5/index.html)!! :D 
 
 ## How to Play
 The goal of this game is to arrange all of your cards of the same suit into columns from King to Ace. Once you arrange a column like that, it will append to the bottom left corner of your screen. 
