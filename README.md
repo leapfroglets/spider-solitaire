@@ -20,17 +20,6 @@ If you click on the cards in the bottom right of the screen, a new card will be 
 
 ## Screenshots
 Game Start
-![UI V2](https://github.com/leapfroglets/spider-solitaire/tree/master/screenshots/Screenshot1.png)
-
-Mid game
-![UI V2](https://github.com/leapfroglets/spider-solitaire/tree/master/screenshots/Screenshot2.png)
-
-Game Over
-![UI V2](https://github.com/leapfroglets/spider-solitaire/tree/master/screenshots/Screenshot3.png)
-
-## Screenshots
-
-Game Start
 ![UI V2](https://github.com/coyg7/coyg7.github.io/blob/master/Spider-Solitaire/screenshots/Screenshot1.png)
 
 
@@ -43,21 +32,7 @@ Game Over
 
 
 
-## Screenshots
-Game Start
-![UI V2](https://github.com/coyg7/coyg7.github.io/blob/master/Spider-Solitaire/screenshots/Screenshot1.png)
-
-
-Mid game
-![UI V2](https://github.com/coyg7/coyg7.github.io/blob/master/Spider-Solitaire/screenshots/Screenshot2.png)
-
-
-Game Over
-![UI V2](https://github.com/coyg7/coyg7.github.io/blob/master/Spider-Solitaire/screenshots/Screenshot3.png)
-
-
-
-#### Have fun!
+  #### Have fun!
 
 
 
