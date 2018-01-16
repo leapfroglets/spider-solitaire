@@ -3,6 +3,7 @@
 Just a simple remake of classic Spider Solitaire game built during 6-week internship program at Leapfrog Technology Inc.  
 The project utilizes vanilla Javascript and HTML canvas for animations.
 
+Just clone or download the repo and open index.html in your web browser to get started.
 The latest version of the game is hosted on github. Click here to [Play](http://coyg7.github.io/Spider-Solitaire/)!! :D 
 
 ## How to Play
@@ -17,7 +18,17 @@ If you click on the cards in the bottom right of the screen, a new card will be 
 * 2-Suits 
 * 4-Suits 
 
-Have fun!
+## Screenshots
+Game Start
+![UI V2](https://github.com/leapfroglets/spider-solitaire/tree/master/screenshots/Screenshot1.png)
+
+Mid game
+![UI V2](https://github.com/leapfroglets/spider-solitaire/tree/master/screenshots/Screenshot2.png)
+
+Game Over
+![UI V2](https://github.com/leapfroglets/spider-solitaire/tree/master/screenshots/Screenshot3.png)
+
+#### Have fun!
 
 
 
