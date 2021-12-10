@@ -101,9 +101,14 @@ function DragEvents() {
 		if (!this.container || this.container === source) 
 			return;
 
-		if ( !this.container.children[0] )
+		if ( !this.container.children[0] ) {
+			noOfMoves++;    
+			var moves = document.getElementById("score");
+			moves.innerHTML = noOfMoves;	
+			popSound = new Sound('audio/pop.mp3');
+			popSound.play();
 			return this.container;
-
+		}
 		var cardNum1 = +target.dataset.card.slice(1); //Returns only a number that can be compared --> Represents target
 		var cardNum2 = +this.container.lastElementChild.dataset.card.slice(1); // Represents last element of new parent
 		if ( cardNum1 + 1 == cardNum2 ) {
